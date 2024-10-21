@@ -6,22 +6,21 @@ This project aims to predict the likelihood of heart disease based on various he
 
 ## Features
 
-- **Predictive Model:** Utilizes a trained machine learning model (e.g., Logistic Regression, Random Forest) to predict the risk of heart disease.
+- **Predictive Model:** Utilizes a trained machine learning model (Logistic Regression) to predict the risk of heart disease.
 - **User-Friendly Interface:** Provides a simple and intuitive web interface built with Streamlit for users to input their health data.
-- **Interactive Visualization:** May include visualizations to display prediction results and insights (optional).
 - **Data Preprocessing:** Handles data cleaning and preparation before feeding it to the model.
 
 ## Technologies Used
 
 - Python
 - Streamlit
-- Scikit-learn (or other machine learning libraries)
+- Scikit-learn 
 - Pandas
 - NumPy
 
 ## Dataset
 
-The project utilizes a dataset containing health-related information (e.g., age, sex, cholesterol levels, blood pressure, etc.) and corresponding labels indicating the presence or absence of heart disease. The dataset source should be cited here (e.g., UCI Heart Disease Dataset).
+The project utilizes a dataset containing health-related information (e.g., age, sex, cholesterol levels, blood pressure, etc.) and corresponding labels indicating the presence or absence of heart disease.
 
 
 ## Usage
